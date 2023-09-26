@@ -1,0 +1,14 @@
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\build_output\exercicioOOB2.exe
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\build_output\exercicioOOB2.deps.json
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\build_output\exercicioOOB2.runtimeconfig.json
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\build_output\exercicioOOB2.dll
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\build_output\exercicioOOB2.pdb
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\obj\Debug\net6.0\exercicioOOB2.GeneratedMSBuildEditorConfig.editorconfig
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\obj\Debug\net6.0\exercicioOOB2.AssemblyInfoInputs.cache
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\obj\Debug\net6.0\exercicioOOB2.AssemblyInfo.cs
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\obj\Debug\net6.0\exercicioOOB2.csproj.CoreCompileInputs.cache
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\obj\Debug\net6.0\exercicioOOB2.dll
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\obj\Debug\net6.0\refint\exercicioOOB2.dll
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\obj\Debug\net6.0\exercicioOOB2.pdb
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\obj\Debug\net6.0\exercicioOOB2.genruntimeconfig.cache
+D:\1. backup\1. Projetos\composicao\exercicioOOB2\obj\Debug\net6.0\ref\exercicioOOB2.dll
